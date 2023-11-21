@@ -1,13 +1,14 @@
 <h1 align="center">
-  Offensive Tools
+  KaliBuntu
 </h1>
-<img align="center" src="https://i.imgur.com/9XewLwL.png"/>
+<img align="center" src="https://i.imgur.com/1jhL5Xp.png"/>
 
 <br>
 
+---
 ## 💻 Project
 
-This tool was created with the aim of installing some tools for pentesting.
+Install some Kali Linux tools in Ubuntu.
 
 ---
 
@@ -20,3 +21,10 @@ This tool was created with the aim of installing some tools for pentesting.
 - Hydra
 - Dirb
 - Nmap
+- SQLmap
+- Crunch
+- Wireshark
+- HashCat
+- Hping3
+
+---

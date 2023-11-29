@@ -14,7 +14,7 @@ def banner():
                                         
 ******************************************************* 
 *     Install some Kali Linux tools in Ubuntu         *
-*     By yoonsantos                                   *
+*     By axroot                                       *
 *                                                     *
 *******************************************************
     """

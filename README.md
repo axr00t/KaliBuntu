@@ -1,7 +1,6 @@
 <h1 align="center">
   KaliBuntu
 </h1>
-<img align="center" src="https://i.imgur.com/1jhL5Xp.png"/>
 
 <br>
 
